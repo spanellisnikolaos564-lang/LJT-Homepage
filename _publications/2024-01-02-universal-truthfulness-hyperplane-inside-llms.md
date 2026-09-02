@@ -10,4 +10,4 @@ citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. (2024). &quot;On the U
 
 Junteng Liu is the first author of this paper.
 
-Code is released in the GitHub repository Universal_Truthfulness_Hyperplane.
+Code is released in the GitHub repository `Universal_Truthfulness_Hyperplane`.

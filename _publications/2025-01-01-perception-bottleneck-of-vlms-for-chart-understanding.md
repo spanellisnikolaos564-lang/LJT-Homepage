@@ -10,4 +10,4 @@ citation: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxia
 
 Junteng Liu is the first author of this paper.
 
-Code is released in the GitHub repository Vision4Chart.
+Code is released in the GitHub repository `Vision4Chart`.

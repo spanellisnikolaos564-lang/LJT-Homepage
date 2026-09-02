@@ -47,13 +47,13 @@ Preprints
   Code is released in a GitHub repository.
 * **On the Perception Bottleneck of VLMs for Chart Understanding**, 2025, Arxiv. *(first author)*<br />
   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He<br />
-  Code is released in the GitHub repository Vision4Chart.
+  Code is released in the GitHub repository `Vision4Chart`.
 
 Conference Papers
 ------
 * **On the Universal Truthfulness Hyperplane Inside LLMs**, EMNLP 2024. *(first author)*<br />
   Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He<br />
-  Code is released in the GitHub repository Universal_Truthfulness_Hyperplane.
+  Code is released in the GitHub repository `Universal_Truthfulness_Hyperplane`.
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**, ICML 2024.<br />
   Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
 * **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**, NeurIPS 2023.<br />
